@@ -1,13 +1,16 @@
 # Data Analyst
 
-### Education
-B.Tech in Computer Science and Engineerng (May 2020)
+#### Technical Skills: Python, SQL, Excel, Machine Learning, PowerBI
 
-### Work Experience 
-Data Anlayst @ Esfina Technology and Solution
-Machine Learning Intern @ Feynn Labs
+## Education
+- B.Tech., Computer Science and Engineerng | SVNIT, Surat(May 2020)
 
-### Projects
+## Work Experience 
+**Data Anlayst @Esfina Technology and Solution (_March 2022 - October 2023_)
+
+**Machine Learning Intern @Feynn Labs (_December 2021 - February 2022_)
+
+## Projects
 Flight Prices Predictions
 - Data analysis, data cleaning, data visualization and using machine learning regression models to predict the price of flights.
 
