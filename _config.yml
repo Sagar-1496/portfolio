@@ -1,6 +1,5 @@
-bundle install
 title: Sagar Patel
 #logo: 
 #Description:
 show_downloads: true
-theme: jekyll-theme-minima
+theme: jekyll-theme-minimal
