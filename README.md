@@ -12,8 +12,8 @@
 - Contributed to the data science team by assisting in data collection and cleaning from diverse sources. Conducted data analysis and created visualizations to support decision-making. Collaborated with team members to develop and deploy machine learning models for predictive analysis.
 
 ## Projects
-###Flight Prices Predictions
+### Flight Prices Predictions
 - Data analysis, data cleaning, data visualization and using machine learning regression models to predict the price of flights.
 
-###IPL All Time Best Bowlers
+### IPL All Time Best Bowlers
 - Create dashboard using PowerBI tool to visualize meaningful insights of Indian Premier League all time best bowlers.
