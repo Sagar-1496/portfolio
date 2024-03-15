@@ -6,9 +6,9 @@
 - B.Tech., Computer Science and Engineerng | SVNIT, Surat (_May 2020_)
 
 ## Work Experience 
-* Data Anlayst @Esfina Technology and Solution (_March 2022 - October 2023_)
+** Data Anlayst @Esfina Technology and Solution (_Mar 2022 - Oct 2023_)
 
-** Machine Learning Intern @Feynn Labs (_December 2021 - February 2022_)
+** Machine Learning Intern @Feynn Labs (_Dec 2021 - Feb 2022_)
 - Contributed to the data science team by assisting in data collection and cleaning from diverse sources. Conducted data analysis and created visualizations to support decision-making. Collaborated with team members to develop and deploy machine learning models for predictive analysis.
 
 ## Projects
