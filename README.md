@@ -13,13 +13,13 @@
 
 ## Certifications
 #### Google: Data Analytics Specialization
-(Assets/Google Data Analytics.pdf)
 
 #### Machine Learning: Hands on Python in Data Science
 
 ## Projects
 #### Flight Prices Predictions
 - Data analysis, data cleaning, data visualization and using machine learning regression models to predict the price of flights.
+(Assets/Reg.png)
 
 #### IPL All Time Best Bowlers
 - Create dashboard using PowerBI tool to visualize meaningful insights of Indian Premier League all time best bowlers.
