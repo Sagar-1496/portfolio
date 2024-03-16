@@ -14,7 +14,7 @@
 ## Projects
 #### Flight Prices Predictions
 - Data analysis, data cleaning, data visualization and using various machine learning regression models to predict the price of flights.
-- Using RandomForest Regressor get best accuracy across all models.
+- RandomForest Regressor gives best accuracy across all models.
  ![](/Assets/Reg.png) ![](/Assets/ssreg.png)
 
 #### IPL All Time Best Bowlers
@@ -22,7 +22,8 @@
  ![](/Assets/ipl.pdf)
 
 #### Loan Status Prediction
-- Implemented machine learning classifiers to predict whether a loan application will be approved or denied based on various factors or features associated with the applicant and the loan itself.
+- Implemented various machine learning classifiers to predict whether a loan application will be approved or denied based on various factors or features associated with the applicant and the loan itself.
+- XG Boost contains the best accuracy to predict the status of loan approved (Y) or Not (N).
 ![](/Assets/classi.png) ![](/Assets/sscl.png)
 
 #### Atliq Properties Insights
