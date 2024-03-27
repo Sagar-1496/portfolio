@@ -32,7 +32,7 @@
 
 ## Certifications
 #### Google: Data Analytics Specialization
- ![](/Assets/Google Data Analytics.pdf)
+![](/Assets/Google Data Analytics.pdf)
 
 #### Machine Learning: Hands on Python in Data Science
- ![](/Assets/Machine Learning.pdf)
+![](/Assets/Machine Learning.pdf)
